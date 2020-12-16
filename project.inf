@@ -1,4 +1,2 @@
-Type: ae3.Package
 Name: myx-public.keys
-Requires: 
-Provides: myx-public.keys 
+Provides: myx-public.keys myx/myx-public.keys
